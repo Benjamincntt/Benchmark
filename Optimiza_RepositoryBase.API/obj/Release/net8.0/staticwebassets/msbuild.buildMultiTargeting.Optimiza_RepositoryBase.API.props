@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Optimiza_RepositoryBase.API.props" />
+</Project>

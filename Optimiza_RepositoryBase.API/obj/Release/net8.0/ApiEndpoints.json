@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsController",
+    "Method": "StudentById",
+    "RelativePath": "api/Students/student-by-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsController",
+    "Method": "StudentDetails",
+    "RelativePath": "api/Students/student-details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsController",
+    "Method": "StudentDetailById",
+    "RelativePath": "api/Students/student-details-by-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsController",
+    "Method": "Students",
+    "RelativePath": "api/Students/students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsGoodController",
+    "Method": "StudentDetails",
+    "RelativePath": "api/StudentsGood/studentgood-details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsGoodController",
+    "Method": "StudentDetailById",
+    "RelativePath": "api/StudentsGood/studentgood-details-by-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsGoodController",
+    "Method": "Students",
+    "RelativePath": "api/StudentsGood/studentgoods",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsGoodController",
+    "Method": "StudentsByCondition",
+    "RelativePath": "api/StudentsGood/studentsgood-by-condition",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Optimiza_RepositoryBase.API.Controllers.StudentsGoodController",
+    "Method": "StudentsById",
+    "RelativePath": "api/StudentsGood/studentsgood-by-id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
